@@ -4,3 +4,4 @@ ruby '2.2.2'
 
 gem 'sinatra'
 gem 'telegram-bot-ruby'
+gem 'vk-ruby'
